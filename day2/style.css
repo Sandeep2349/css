@@ -1,0 +1,13 @@
+.style{
+    width: 300px;
+    padding:20px ;  
+    text-align: center;
+    margin: 30px;
+    background-color: aquamarine; 
+    border-radius: 20px;
+}
+div:hover{
+    background-color: orange;
+    width:400px;
+
+}
