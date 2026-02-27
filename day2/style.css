@@ -3,11 +3,12 @@
     padding:20px ;  
     text-align: center;
     margin: 30px;
-    background-color: aquamarine; 
+    background-color: green; 
     border-radius: 20px;
 }
 div:hover{
-    background-color: orange;
+    background-color: red;
     width:400px;
+
 
 }
